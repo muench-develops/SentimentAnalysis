@@ -1,5 +1,5 @@
 # Sentiment Analysis
-SentimentAnalysis for medium.com/@justin.muench
+Sentiment Analysis for medium.com/@justin.muench
 
 Followed the tutorial from the Book Hands-On Machine Learning with ML.NET and Microsoft Docs (https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/sentiment-analysis)
 
